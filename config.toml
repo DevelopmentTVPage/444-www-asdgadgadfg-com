@@ -1,0 +1,13 @@
+#Hugo configuration
+title = "zxdfgadg"
+baseURL = "https:\/\/www.asdgadgadfg.com"
+languageCode = "en-us"
+theme = "tvpage"
+disablePathToLower = "true"
+enableRobotsTXT = true
+
+[params]
+loginId = "1758927"
+subfolder = ""
+firstpartycookies = true
+cookiedomain = "asdgadgadfg.com"
